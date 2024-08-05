@@ -8,7 +8,7 @@ email: "your.email@example.com"
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 
 # GitHub Pages settings
 repository: username/portfolio
