@@ -3,6 +3,9 @@ logo: /assets/img/headshot_circle.png
 description: >
     Welcome to my simple website. 
      
-     
+
     This is a new line [Check out my GitHub profile](https://github.com/your-username)
+# URL settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://username.github.io" # the base hostname & protocol for your site
 theme: jekyll-theme-minimal
