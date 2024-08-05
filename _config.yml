@@ -1,8 +1,6 @@
 title: Sudhrity Mondal
 logo: /assets/img/headshot_circle.png
-description: 'Some description
-  
-    
-  <a href=\"https://www.linkedin.com/in/sudhrity/\">View my Linkedin profile</a>'
-show_downloads: true
+description: >
+  Welcome to my simple website. 
+  This is a sample hyperlink: [Check out my GitHub profile](https://github.com/your-username)
 theme: jekyll-theme-minimal
