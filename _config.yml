@@ -1,109 +1,11 @@
-# Site settings
-title: "Data Science Portfolio"
-description: "Showcase of data science projects and blog posts"
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog
-url: "https://username.github.io" # the base hostname & protocol for your site
-author: "Your Name"
-email: "your.email@example.com"
-
-# Build settings
-markdown: kramdown
+title: Sudhrity Mondal
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://sudhrity.github.io" # the base hostname & protocol for your site
+author: "Sudhrity Mondal"
+email: "sudhrity@gmail.com"
+logo: /assets/img/headshot_circle.png
+description: 'Some description
+    
+  <a href=\"https://www.linkedin.com/in/sudhrity/\">View my Linkedin profile</a>'
+show_downloads: true
 theme: jekyll-theme-minimal
-
-# GitHub Pages settings
-repository: username/portfolio
-# `remote_theme` can be used to specify a theme from GitHub repository
-# remote_theme: username/repo
-
-# Permalinks
-permalink: /:categories/:title/
-
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-
-# Pagination
-paginate: 5
-paginate_path: "/page:num/"
-
-# Markdown settings
-kramdown:
-  input: GFM
-
-# Social media settings
-twitter_username: your_twitter
-github_username: your_github
-linkedin_username: your_linkedin
-
-# Navigation
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "Projects"
-    url: "/projects/"
-  - title: "Blog"
-    url: "/blog/"
-  - title: "About"
-    url: "/about/"
-
-# Collections
-collections:
-  projects:
-    output: true
-    permalink: /projects/:title/
-  blog:
-    output: true
-    permalink: /blog/:title/
-
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"
-      author: "Your Name"
-  - scope:
-      path: ""
-      type: "blog"
-    values:
-      layout: "post"
-      author: "Your Name"
-
-# Exclusions
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
-
-# Jekyll Feed plugin settings
-feed:
-  path: "/feed.xml"
-  # baseurl: "https://username.github.io/portfolio"
-
-# SEO settings
-seo:
-  title: "Data Science Portfolio"
-  description: "A showcase of data science projects and blog posts by Your Name"
-  url: "https://username.github.io/portfolio"
-  twitter: your_twitter
-  github: your_github
-  linkedin: your_linkedin
-
-# Sitemap settings
-sitemap:
-  exclude:
-    - "/404.html"
-  include:
-    - "/"
-
-# Google Analytics
-google_analytics: UA-XXXXXXXXX-X
-
-# Disqus comments
-disqus:
-  shortname: your_disqus_shortname
