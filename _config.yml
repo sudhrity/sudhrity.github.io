@@ -3,5 +3,6 @@ logo: /assets/img/headshot_circle.png
 description: >
     Welcome to my simple website. 
      
+     
     This is a new line [Check out my GitHub profile](https://github.com/your-username)
 theme: jekyll-theme-minimal
