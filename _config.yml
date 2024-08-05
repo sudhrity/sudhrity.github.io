@@ -5,8 +5,8 @@ author: "Sudhrity Mondal"
 email: "sudhrity@gmail.com"
 logo: /assets/img/headshot_circle.png
 description: 'Some description
-  
-    
+
+  <br>  
   <a href="https://www.linkedin.com/in/sudhrity/">View my Linkedin profile</a>'
 show_downloads: true
 theme: jekyll-theme-minimal
