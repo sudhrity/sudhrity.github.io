@@ -193,7 +193,6 @@ html {
           </div>
         </div>
       </div>
-      e:\github\tmp\DS-Portfolio-Website-ChatGPT-main\DS-Portfolio-Website-ChatGPT-main\images e:\github\tmp\DS-Portfolio-Website-ChatGPT-main\DS-Portfolio-Website-ChatGPT-main\iconsProject 2 -->
       <div class="col-md-4 mb-4">
         <div class="card">
           <img src="images/projects/2.jpg" class="card-img-top" alt="Project 2">
