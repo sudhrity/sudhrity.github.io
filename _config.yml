@@ -4,9 +4,8 @@ url: "https://sudhrity.github.io" # the base hostname & protocol for your site
 author: "Sudhrity Mondal"
 email: "sudhrity@gmail.com"
 logo: /assets/img/headshot_circle.png
-description: |- 
+description: > 
   Some description
-
   <br>
   <br>  
   <a href="https://www.linkedin.com/in/sudhrity/">View My Linkedin Profile</a>
