@@ -160,6 +160,8 @@ html {
 <section id="projects" class="projects-section bg-light" id="projects">
   <div class="container">
     <h2 class="text-left">Projects</h2>
+  </div>
+  <div>
     <div class="row">
       <!-- Project 1 -->
       <div class="col-md-6 mb-6">
