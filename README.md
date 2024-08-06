@@ -182,7 +182,7 @@ html {
     <h2 class="text-center">Projects</h2>
     <div class="row">
       <!-- Project 1 -->
-      <div class="col-md-4 mb-4">
+      <div class="col-md-10 mb-10">
         <div class="card">
           <img src="images/projects/1.jpg" class="card-img-top" alt="Project 1">
           <div class="card-body">
