@@ -169,7 +169,7 @@ html {
 <section id='about' class="about-section">
   <div class="container">
     <h2>About</h2>
-#   <img src="images/about/1.jpg" alt="About Me">
+    <!--  <img src="images/about/1.jpg" alt="About Me"> -->
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet dolor dolor. Suspendisse ligula elit, hendrerit ut bibendum quis, facilisis vitae est. Vivamus vitae felis sit amet sem rhoncus euismod. Praesent commodo lorem porttitor. Nam in condimentum ex. Nam accumsan nisi turpis, sed tempus dolor volutpat non. Proin id enim feugiat ipsum consectetur mattis. Nam blandit venenatis nisi, convallis imperdiet nisi condimentum at.</p>
     <p>Duis convallis ligula sed pretium tristique. Duis nunc risus, lacinia eget cursus id, suscipit ac metus. Sed varius sed tortor congue aliquam. In in dapibus diam, in auctor purus. Praesent vitae tristique diam. Donec tincidunt hendrerit tortor, vitae lobortis purus rutrum sit amet. Nunc non arcu vitae leo rhoncus tincidunt vel sed urna. Sed sed efficitur dui. Morbi id velit nisi. Fusce luctus placerat purus eu cursus.</p>
   </div>
@@ -193,7 +193,7 @@ html {
           </div>
         </div>
       </div>
-      <!-- Project 2 -->
+      e:\github\tmp\DS-Portfolio-Website-ChatGPT-main\DS-Portfolio-Website-ChatGPT-main\images e:\github\tmp\DS-Portfolio-Website-ChatGPT-main\DS-Portfolio-Website-ChatGPT-main\iconsProject 2 -->
       <div class="col-md-4 mb-4">
         <div class="card">
           <img src="images/projects/2.jpg" class="card-img-top" alt="Project 2">
