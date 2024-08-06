@@ -65,6 +65,18 @@ body {
     margin: 0 auto; /* Centers the text container */
     line-height: 1.6; /* Improves readability */
 }
+
+#projects {
+    padding: 80px 0;
+    text-align: center;
+}
+
+/* Card Styling (Optional) */
+.card {
+    border: none; /* Remove default border */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Subtle shadow for depth */
+}
+
 </style>
 </body>
 </html>
