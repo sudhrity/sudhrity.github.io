@@ -182,7 +182,7 @@ html {
     <h2 class="text-center">Projects</h2>
     <div class="row">
       <!-- Project 1 -->
-      <div class="col-md-14 mb-14">
+      <div class="col-md-7 mb-7">
         <div class="card">
           <img src="images/projects/1.jpg" class="card-img-top" alt="Project 1">
           <div class="card-body">
@@ -201,7 +201,7 @@ html {
   <div class="container">
     <div class="row">
       <!-- Project 2 -->
-      <div class="col-md-14 mb-14">
+      <div class="col-md-7 mb-7">
         <div class="card">
           <img src="images/projects/2.jpg" class="card-img-top" alt="Project 2">
           <div class="card-body">
@@ -221,7 +221,7 @@ html {
   <div class="container">
     <div class="row">
       <!-- Project 2 -->
-      <div class="col-md-14 mb-14">
+      <div class="col-md-7 mb-7">
         <div class="card">
           <img src="images/projects/3.jpg" class="card-img-top" alt="Project 3">
           <div class="card-body">
