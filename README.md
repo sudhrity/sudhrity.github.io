@@ -188,8 +188,8 @@ html {
           <div class="card-body">
             <h5 class="card-title">Project 1</h5>
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed nisl erat. Sed et purus ornare, eleifend tellus ut, fermentum arcu.</p>
-            <a href="#" class="btn btn-primary">Blog Post</a>
-            <a href="#" class="btn btn-secondary">Source Code</a>
+            <a href="#" class="btn btn-primary">Blog</a>
+            <a href="#" class="btn btn-secondary">Source</a>
           </div>
         </div>
       </div>
@@ -199,8 +199,8 @@ html {
           <div class="card-body">
             <h5 class="card-title">Project 2</h5>
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed nisl erat. Sed et purus ornare, eleifend tellus ut, fermentum arcu.</p>
-            <a href="#" class="btn btn-primary">Blog Post</a>
-            <a href="#" class="btn btn-secondary">Source Code</a>
+            <a href="#" class="btn btn-primary">Blog</a>
+            <a href="#" class="btn btn-secondary">Source</a>
           </div>
         </div>
       </div>
