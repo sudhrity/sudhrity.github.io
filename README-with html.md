@@ -28,7 +28,7 @@ Solutions Architect @ Red Hat
 
 <style>
   .about-section {
-    text-align: center;
+    text-align: justify;
     padding: 50px 0;
   }
   .about-section h2 {
