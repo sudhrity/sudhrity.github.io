@@ -193,6 +193,17 @@ html {
           </div>
         </div>
       </div>
+      <div class="col-md-7 mb-7">
+        <div class="card">
+          <img src="images/projects/2.jpg" class="card-img-top" alt="Project 2">
+          <div class="card-body">
+            <h5 class="card-title">Project 2</h5>
+            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed nisl erat. Sed et purus ornare, eleifend tellus ut, fermentum arcu.</p>
+            <a href="#" class="btn btn-primary">Blog Post</a>
+            <a href="#" class="btn btn-secondary">Source Code</a>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </section>
@@ -213,7 +224,6 @@ html {
         </div>
       </div>
     </div>
-
   </div>
 </section>
 
