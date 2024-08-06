@@ -13,7 +13,26 @@
             <p>Your second paragraph can delve deeper into your background, passions, or specific areas of expertise. Feel free to personalize this section.</p>
         </div>
     </section>
-
+    <section id="projects">
+        <h2 class="centered-heading">Projects</h2>
+        <div class="row justify-content-center">
+            <div class="col-md-4"> 
+                <div class="card mb-4">
+                    <img src="images/projects/1.jpg" class="card-img-top" alt="Project 1">
+                    <div class="card-body">
+                        <h5 class="card-title">Project 1</h5>
+                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur   
+ adipiscing elit. Integer posuere erat a ante.</p>
+                        <a href="#" class="btn btn-primary">Blog   
+ Post</a>
+                        <a href="#" class="btn btn-secondary">Source Code</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4"> </div> 
+            <div class="col-md-4"> </div>
+        </div>
+    </section>
 
 <style> /* General Styling */
 body {
