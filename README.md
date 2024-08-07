@@ -9,7 +9,7 @@
 <style>
   .about-section {
     text-align: justify;
-    padding: 0px 0;
+    padding: 10px 0;
   }
   .about-section h2 {
     font-size: 2.5rem;
