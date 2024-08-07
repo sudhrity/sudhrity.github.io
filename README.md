@@ -163,9 +163,9 @@ html {
   </div>
 </section>
 
-<section id="projects" class="projects-section bg-light">
+<section id="projects" class="about-section bg-light">
   <div class="container">
-    <!-- <h2 class="text-left">Projects</h2> -->
+    <h2 class="text-left">Projects</h2> 
     <div class="row">
       <!-- Project 1 -->
       <div class="col-md-6 mb-6">
