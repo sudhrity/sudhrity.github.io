@@ -157,7 +157,7 @@ html {
 
 
 <!-- Projects Section -->
-<section id='about' class="about-section">
+<section id='projects' class="about-section">
   <div class="container">
     <h2>Projects</h2>
   </div>
@@ -165,7 +165,7 @@ html {
 
 <section id="projects" class="projects-section bg-light">
   <div class="container">
-    <h2 class="text-left">Projects2</h2>
+    <h2 class="text-left">Projects</h2>
     <div class="row">
       <!-- Project 1 -->
       <div class="col-md-6 mb-6">
