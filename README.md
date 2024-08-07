@@ -38,6 +38,7 @@
   font-size: 2.5rem;
 }
 .card {
+  border: none;
   box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Adds a subtle shadow around the card */
 }
 .card-img-top {
@@ -45,7 +46,7 @@
   object-fit: cover; /* This makes sure the image covers the area properly */
 }
 .card-body {
-  padding: 1px;
+  padding: 15px;
 }
 .card-title {
   font-size: 1.25rem;
