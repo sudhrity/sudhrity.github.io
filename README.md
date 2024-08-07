@@ -157,12 +157,6 @@ html {
 
 
 <!-- Projects Section -->
-<section id='projects' class="about-section bg-light">
-  <div class="container">
-    <h2>Projects</h2>
-  </div>
-</section>
-
 <section id="projects" class="about-section bg-light">
   <div class="container">
     <h2 class="text-left">Projects</h2> 
