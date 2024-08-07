@@ -165,7 +165,7 @@ html {
 
 
 <!-- Projects Section -->
-<section id="projects" class="projects-section h2 bg-light">
+<section id="projects" class="projects-section bg-light">
   <div class="container">
     <h2 class="text-left">Projects</h2> 
     <div class="row">
