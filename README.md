@@ -29,7 +29,7 @@
 
   .projects-section {
     text-align: justify;
-    padding: 50px 0;
+    padding: 10px 0;
   }
 
 .projects-section h2 {
@@ -164,7 +164,7 @@ html {
 
 
 <!-- Projects Section -->
-<section id="projects" class="projects-section h2 bg-light">
+<section id="projects" class="projects-section bg-light">
   <div class="container">
     <h2 class="text-left">Projects</h2> 
     <div class="row">
