@@ -26,6 +26,14 @@
   }
 
   /* Additional CSS for Projects Section */
+
+  .projects-section {
+    text-align: justify;
+    padding: 50px 0;
+    margin-bottom: 40px;
+    font-size: 2.5rem;
+  }
+
 .projects-section h2 {
   margin-bottom: 40px;
   font-size: 2.5rem;
@@ -157,7 +165,7 @@ html {
 
 
 <!-- Projects Section -->
-<section id="projects" class="about-section bg-light">
+<section id="projects" class="projects-section bg-light">
   <div class="container">
     <h2 class="text-left">Projects</h2> 
     <div class="row">
