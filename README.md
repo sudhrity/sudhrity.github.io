@@ -45,7 +45,7 @@
   object-fit: cover; /* This makes sure the image covers the area properly */
 }
 .card-body {
-  padding: 15px;
+  padding: 1px;
 }
 .card-title {
   font-size: 1.25rem;
