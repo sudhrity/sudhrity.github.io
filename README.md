@@ -29,9 +29,6 @@
 
   .projects-section {
     text-align: justify;
-    padding: 50px 0;
-    margin-bottom: 40px;
-    font-size: 2.5rem;
   }
 
 .projects-section h2 {
