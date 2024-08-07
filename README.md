@@ -9,14 +9,14 @@
 <style>
   .about-section {
     text-align: justify;
-    padding: 50px 0;
+    padding: 0px 0;
   }
   .about-section h2 {
     font-size: 2.5rem;
     margin-bottom: 20px;
   }
   .about-section img {
-    width: 150px; /* Adjust the size as needed */
+    width: 200px; /* Adjust the size as needed */
     height: 200px;
     border-radius: 50%; /* Makes the image round */
     margin-bottom: 20px;
