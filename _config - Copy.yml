@@ -1,4 +1,8 @@
 title: Sudhrity Mondal
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://sudhrity.github.io" # the base hostname & protocol for your site
+author: "Sudhrity Mondal"
+email: "sudhrity@gmail.com"
 logo: /assets/img/headshot_circle.png
 description: > 
   Some description
