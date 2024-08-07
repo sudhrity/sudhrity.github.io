@@ -29,7 +29,6 @@
 
   .projects-section {
     text-align: justify;
-    padding: 10px 0;
   }
 
 .projects-section h2 {
